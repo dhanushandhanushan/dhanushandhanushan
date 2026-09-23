@@ -5,7 +5,7 @@
 🎓 Undergraduate at Sabaragamuwa University of Sri Lanka  
 🐍 Currently learning Python  
 💡 Interested in Software Engineering & Web Development  
-🚀 Building my skills one project at a time
+
 
 ---
 
